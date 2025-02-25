@@ -8,6 +8,7 @@ body{
     background-image: url("City.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    margin: 100px;
    
 }
 
@@ -55,4 +56,22 @@ p{
     color: blueviolet;
     font-style: italic;
     font-weight: 600;
+}
+
+
+#box1{
+
+    border: 10px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: grey;
+}
+
+#box2{
+    border: 10px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: grey;
 }
