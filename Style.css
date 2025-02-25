@@ -1,5 +1,14 @@
 body{
+    color: beige;
+    background: linear-gradient(black, purple);
+    background-repeat: no-repeat;
     background-color: black;
+}
+body{
+    background-image: url("City.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
 }
 
 h1{
