@@ -9,6 +9,7 @@ h1{
 p{
     background-color: gray;
     color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #p1{
@@ -19,4 +20,6 @@ p{
 .stuff{
 
     color: blueviolet;
+    font-style: italic;
+    font-weight: 600;
 }
